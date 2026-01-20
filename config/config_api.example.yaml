@@ -1,0 +1,5 @@
+youtube:
+  api_key: "youtube_api_key_here"
+  max_videos: 20
+  max_comments_per_video: 50
+  language: "fr"

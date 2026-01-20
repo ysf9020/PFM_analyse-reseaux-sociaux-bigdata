@@ -5,4 +5,4 @@ __pycache__/
 .DS_Store
 config_api.yaml
 config_api.json
-.env
+config/config_api.yaml

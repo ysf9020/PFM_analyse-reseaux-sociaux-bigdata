@@ -138,6 +138,12 @@ streamlit run visualisation/dashboard_streamlit.py
 
 ---
 
+## Configuration de l’API YouTube
+
+Pour utiliser l’API YouTube, créez un fichier `config_api.yaml`
+dans le dossier `config/` en vous basant sur le fichier
+`config_api.example.yaml`, puis renseignez votre clé API personnelle.
+
 ## ⚠️ Limitations du projet
 
 L’analyse est réalisée en mode batch (quasi temps réel).
