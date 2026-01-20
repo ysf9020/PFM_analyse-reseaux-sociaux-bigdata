@@ -138,8 +138,6 @@ streamlit run visualisation/dashboard_streamlit.py
 
 ---
 
-## 📌 Contact
-
 ## ⚠️ Limitations du projet
 
 L’analyse est réalisée en mode batch (quasi temps réel).
