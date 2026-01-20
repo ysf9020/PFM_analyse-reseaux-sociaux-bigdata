@@ -1,0 +1,34 @@
+# =========================
+# Phase 2 : Collecte des données
+# =========================
+google-api-python-client
+pyyaml
+
+# =========================
+# Phase 3 : Nettoyage et prétraitement
+# =========================
+pyspark
+pandas
+pyarrow
+nltk
+vaderSentiment
+
+# =========================
+# Phase 4 : Analyse réseau et influence
+# =========================
+networkx
+
+# =========================
+# Phase 5 : Streaming temps réel
+# =========================
+kafka-python
+
+# =========================
+# Phase 6 : Stockage NoSQL
+# =========================
+pymongo
+
+# =========================
+# Phase 7 : Visualisation
+# =========================
+streamlit
