@@ -3,3 +3,6 @@ __pycache__/
 .env
 *.log
 .DS_Store
+config_api.yaml
+config_api.json
+.env
